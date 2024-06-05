@@ -1,0 +1,44 @@
+there are a lot of words in here
+not all the words reallyt mean anythign im just typing this so you can run my project for fun
+do you like words, i really like words. how fast can you run id imagine pretty fast
+if you want to test this additintional just start typing words here
+you can include lots of newlines and spaces if you want heres an example
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sam cooper was here
+
+
+
+
+
+
+
+
+
+newlines
+
+text that is still parsable, check me, check me
+run the command with this string: potato
+see if it works
+i bet itll work
+hopefully it works!
+if it doesnt work theres prob soemthing going on with the text you provided, or maybe my code
+who knows!
+this project was just my starter project so I'm not as worried with its functionality but it seems to work when i run it
+checkout my next one for something actually cool and interesting and not a worse version of an already existing linux command... cough cough *grep*
+
+anyways thanks
