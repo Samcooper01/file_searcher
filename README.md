@@ -4,7 +4,9 @@
 
 ## Purpose
 
-The purpose of this tool is to search a specified file for a provided string and output the locations where the string is found.
+The purpose of this tool is to search a specified file for a provided string and output the locations where the string is found. 
+
+*purpose of this project was to just get more experience with assembly, see **limitations**
 
 ## Usage
 
